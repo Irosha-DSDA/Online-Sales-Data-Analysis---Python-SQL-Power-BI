@@ -115,3 +115,6 @@ Table 4: Performance by State and City
 | West Bengal | Kolkata | 14,328 | 2,074 | 216 | 22 |
 
 ## Power BI dashboard
+
+[▶️ Watch demo video](output/Power_BI.mp4)
+
