@@ -115,6 +115,7 @@ Table 4: Performance by State and City
 | West Bengal | Kolkata | 14,328 | 2,074 | 216 | 22 |
 
 ## Power BI dashboard
+[▶️ Watch demo video](Outputs/yPower_BI.mp4)
 
 <p align="center">
   <img src="Outputs/p2.png" width="500" alt="Features importance of RF model">
