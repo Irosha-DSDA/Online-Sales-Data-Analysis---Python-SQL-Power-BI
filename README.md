@@ -116,5 +116,5 @@ Table 4: Performance by State and City
 
 ## Power BI dashboard
 
-[▶️ Watch demo video](output/Power_BI.mp4)
+[▶️ Watch demo video](Outputs/Power_BI.mp4)
 
