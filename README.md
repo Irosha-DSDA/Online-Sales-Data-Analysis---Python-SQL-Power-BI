@@ -73,6 +73,14 @@ Table 3: Monthly profit percentage by category
 
 - Furniture, Electronic and Clothing items high profit shows in April, February, and March, respectively.  
 
+<p align="center">
+  <img src="Outputs/p1.png" width="400" alt="Features importance of RF model">
+</p>
+<p align="center"><em>Figure 1: Monthly profit performance</em>
+
+
+
+ 
 - Indore and Mumbai generate the highest revenue and order volumes, indicating strong regional demand.  
 However, some cities such as Hyderabad, Jaipur, and Prayagraj report negative profits, highlighting potential pricing, cost, or discount-related issues that require further investigation.
 
@@ -106,4 +114,4 @@ Table 4: Performance by State and City
 | Uttar Pradesh | Prayagraj | 3,889 | -133 | 43 | 6 |
 | West Bengal | Kolkata | 14,328 | 2,074 | 216 | 22 |
 
-
+## Power BI dashboard
