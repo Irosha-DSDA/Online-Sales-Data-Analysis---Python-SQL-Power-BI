@@ -116,5 +116,12 @@ Table 4: Performance by State and City
 
 ## Power BI dashboard
 
-[▶️ Watch demo video](Outputs/Power_BI.mp4)
+<p align="center">
+  <img src="Outputs/p2.png" width="500" alt="Features importance of RF model">
+</p>
+<p align="center"><em>Page 1 - Home Page</em>
+<p align="center">
+  <img src="Outputs/p3.png" width="500" alt="Features importance of RF model">
+</p>
+<p align="center"><em>Page 2 - Using Drill Through</em>
 
